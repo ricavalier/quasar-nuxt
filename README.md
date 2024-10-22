@@ -1,0 +1,2 @@
+# quasar-nuxt
+quasar-nuxt
